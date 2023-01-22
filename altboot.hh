@@ -1,5 +1,4 @@
 #include<iostream>
-#include<stdlib.h>
 #include<unistd.h>
 
 void startBoot(){
@@ -11,7 +10,6 @@ void startBoot(){
   cout <<"***         *** \n";
   cout<<"*************** \n";
   cout<<"Startup Completed successfully. \n"<<endl;
-  sleep(3);
   cout<<"<<<------------------------------>>>"<<endl;
   /*****************************************LOLOLOLOLOLO
   A for-type start text,some weird things happened in
