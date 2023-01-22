@@ -1,19 +1,18 @@
 #include<iostream>
 #include<stdlib.h>
 #include<unistd.h>
-#include<
 
 void startBoot(){
   cout << "*************** \n";
   cout << "***         *** \n";
   cout <<"***         *** \n";
-  cout<<"***         *** \n";
+  cout<<"***           *** \n";
   cout <<"***         *** \n";
   cout <<"***         *** \n";
   cout<<"*************** \n";
-  cout<<"Startup Completed successfully. \n");
+  cout<<"Startup Completed successfully. \n"<<endl;
   sleep(3);
-  clrscr();
+  cout<<"<<<------------------------------>>>"<<endl;
   /*****************************************LOLOLOLOLOLO
   A for-type start text,some weird things happened in
   that little code,sooo i don't used.

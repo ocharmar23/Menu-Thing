@@ -2,6 +2,6 @@
 
 int main() {
   startBoot();
-  printf("Tsdt");
+  cout << "eadfasf"<<endl;
   return 0;
 }
